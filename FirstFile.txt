@@ -1,0 +1,5 @@
+<template for:each={searchResults} for:item="result">
+    <li key={result.id} role="presentation" class="slds-listbox__item">
+			"hello world"
+    </li>
+</template>
